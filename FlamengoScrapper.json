@@ -1,0 +1,195 @@
+{
+    
+    "jogadores": [
+        {
+            "nome": "Diego Alves",
+            "nunero": 1,
+            "image_url": "https://fla-bucket-s3-us.s3.amazonaws.com/public/images/players/1/1593711836.png",
+            "posicao": "goleiro"
+
+        },
+        {
+            "nome": "César",
+            "nunero": 37,
+            "image_url": "https://fla-bucket-s3-us.s3.amazonaws.com/public/images/players/1/1593711397.png",
+            "posicao": "goleiro"
+
+        },
+        {
+            "nome": "Gabriel Batista",
+            "nunero": 22,
+            "image_url": "https://fla-bucket-s3-us.s3.amazonaws.com/public/images/players/1/1593711782.png",
+            "posicao": "goleiro"
+
+        },
+        {
+            "nome": "Hugo Souza",
+            "nunero": 45,
+            "image_url": "https://fla-bucket-s3-us.s3.amazonaws.com/public/images/players/1/1593711702.png",
+            "posicao": "goleiro"
+
+        },
+        {
+            "nome": "Rodrigo Caio",
+            "nunero": 3,
+            "image_url": "https://fla-bucket-s3-us.s3.amazonaws.com/public/images/players/2/1593711898.png",
+            "posicao": "zagueiro"
+
+        },
+        {
+            "nome": "Thuler",
+            "nunero": 26,
+            "image_url": "https://fla-bucket-s3-us.s3.amazonaws.com/public/images/players/2/1593711977.png",
+            "posicao": "zagueiro"
+
+        },
+        {
+            "nome": "Gustavo Henrique",
+            "nunero": 2,
+            "image_url": "https://fla-bucket-s3-us.s3.amazonaws.com/public/images/players/2/1593712105.png",
+            "posicao": "zagueiro"
+
+        },
+        {
+            "nome": "Léo Pereira",
+            "nunero": 4,
+            "image_url": "https://fla-bucket-s3-us.s3.amazonaws.com/public/images/players/2/1593712165.png",
+            "posicao": "zagueiro"
+
+        },
+        {
+            "nome": "João Lucas",
+            "nunero": 13,
+            "image_url": "https://fla-bucket-s3-us.s3.amazonaws.com/public/images/players/3/1593712241.png",
+            "posicao": "lateral direito"
+
+        },
+        {
+            "nome": "Isla",
+            "nunero": 44,
+            "image_url": "https://fla-bucket-s3-us.s3.amazonaws.com/public/images/players/10/1598316599.png",
+            "posicao": "lateral direito"
+
+        },
+        {
+            "nome": "Renê",
+            "nunero": 6,
+            "image_url": "https://fla-bucket-s3-us.s3.amazonaws.com/public/images/players/4/1593712490.png",
+            "posicao": "lateral esquerda"
+
+        },
+        {
+            "nome": "Felipe Luís",
+            "nunero": 16,
+            "image_url": "https://fla-bucket-s3-us.s3.amazonaws.com/public/images/players/4/1593712548.png",
+            "posicao": "lateral esquerda"
+
+        },
+        {
+            "nome": "Ramon",
+            "nunero": 36,
+            "image_url": "https://fla-bucket-s3-us.s3.amazonaws.com/public/images/players/4/1603119637.jpeg",
+            "posicao": "lateral esquerda"
+
+        },
+        {
+            "nome": "Wilian Arão",
+            "nunero": 5,
+            "image_url": "https://fla-bucket-s3-us.s3.amazonaws.com/public/images/players/5/1593712646.png",
+            "posicao": "Volante"
+
+        },
+        {
+            "nome": "Gerson",
+            "nunero": 8,
+            "image_url": "https://fla-bucket-s3-us.s3.amazonaws.com/public/images/players/6/1593713126.png",
+            "posicao": "Volante"
+
+        },
+        {
+            "nome": "Thiago Maia",
+            "nunero": 33,
+            "image_url": "https://fla-bucket-s3-us.s3.amazonaws.com/public/images/players/5/1593712929.png",
+            "posicao": "Volante"
+
+        },
+        {
+            "nome": "Everton Ribeiro",
+            "nunero": 7,
+            "image_url": "https://fla-bucket-s3-us.s3.amazonaws.com/public/images/players/6/1593712991.png",
+            "posicao": "Meia"
+
+        },
+        {
+            "nome": "Diego",
+            "nunero": 10,
+            "image_url": "https://fla-bucket-s3-us.s3.amazonaws.com/public/images/players/6/1593713039.png",
+            "posicao": "Meia"
+
+        },
+        {
+            "nome": "De Arrascaeta",
+            "nunero": 14,
+            "image_url": "https://fla-bucket-s3-us.s3.amazonaws.com/public/images/players/6/1593713082.png",
+            "posicao": "Meia"
+
+        },
+        {
+            "nome": "Pepê",
+            "nunero": 40,
+            "image_url": "https://fla-bucket-s3-us.s3.amazonaws.com/public/images/players/6/1593713188.png",
+            "posicao": "Meia"
+
+        },
+        {
+            "nome": "Gabriel B.",
+            "nunero": 9,
+            "image_url": "https://fla-bucket-s3-us.s3.amazonaws.com/public/images/players/7/1593713265.png",
+            "posicao": "atacantes"
+
+        },
+        {
+            "nome": "Vitinho",
+            "nunero": 11,
+            "image_url": "https://fla-bucket-s3-us.s3.amazonaws.com/public/images/players/7/1593713318.png",
+            "posicao": "atacantes"
+
+        },
+        {
+            "nome": "Bruno Henrique",
+            "nunero": 27,
+            "image_url": "https://fla-bucket-s3-us.s3.amazonaws.com/public/images/players/7/1593713363.png",
+            "posicao": "atacantes"
+
+        },
+        {
+            "nome": "Lincoln",
+            "nunero": 29,
+            "image_url": "https://fla-bucket-s3-us.s3.amazonaws.com/public/images/players/7/1593713455.png",
+            "posicao": "atacantes"
+
+        },
+        {
+            "nome": "Pedro Rocha",
+            "nunero": 32,
+            "image_url": "https://fla-bucket-s3-us.s3.amazonaws.com/public/images/players/7/1593713651.png",
+            "posicao": "atacantes"
+
+        },
+        {
+            "nome": "Michael",
+            "nunero": 19,
+            "image_url": "https://fla-bucket-s3-us.s3.amazonaws.com/public/images/players/7/1593713700.png",
+            "posicao": "atacantes"
+
+        },
+        {
+            "nome": "Pedro",
+            "nunero": 21,
+            "image_url": "https://fla-bucket-s3-us.s3.amazonaws.com/public/images/players/7/1593713750.png",
+            "posicao": "atacantes"
+
+        }
+    ]
+
+}		
